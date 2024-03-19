@@ -1,0 +1,31 @@
+{
+  "name": "susanmartin-config",
+  "version": "1.0.0",
+  "description": "This is a Node.js module for quantum computing utilities. It provides various functions for simulating quantum circuits, generating random quantum states, measuring quantum states, and performing Grover's search algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SusanMartin0466086/susanmartin-config"
+  },
+  "dependencies": {
+	  "edwardevans-io": "1.0.0",
+"elizabethmiller": "1.0.0",
+"limonovp-mode": "1.0.0",
+"sqr-trumposwere": "1.0.0",
+"kennethallen-cloud": "1.0.0",
+"selivanovpetr-os": "1.0.0",
+"sdk-krotovsemen": "1.0.0",
+"borissolodov-func": "1.0.0",
+    "mathjs": "^9.4.4",
+    "qiskit": "^0.9.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusanMartin0466086/susanmartin-config/issues"
+  },
+  "homepage": "https://github.com/SusanMartin0466086/susanmartin-config#readme"
+}
